@@ -18,6 +18,9 @@ I'm an graduation persuing student , I'm currently in my second year. I really e
 
 🧑🏽‍💻
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mettasurendhar&theme=horizon)](https://git.io/streak-stats)
+
+
 ----
 
 ## Languages and Tools :
