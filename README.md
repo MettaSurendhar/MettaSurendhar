@@ -3,7 +3,9 @@
 
 ![I am GitHub Readme Generator's creator](https://github.com/MettaSurendhar/MettaSurendhar/blob/main/banner%20image/github%20banner%202.png?raw=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettasurendhar&show_icons=true&theme=dracula#gh-dark-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&langs_count=8&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MettaSurendhar/MettaSurendhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
