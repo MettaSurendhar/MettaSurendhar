@@ -1,5 +1,5 @@
 
-<img src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/banner%20image/github%20banner%202.png?raw=true" />
+<img src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/banner%20image/github%20banner%203.png" />
 
 ----
 
