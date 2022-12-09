@@ -1,4 +1,7 @@
-### Hi there 👋 I'm METTA SURENDHAR
+## Hi there 👋 
+# I'm METTA SURENDHAR
+
+### I'm an graduation persuing student , I'm currently in my second year. I'm interested in learning and making projects in frontend development.
 
 
 ![I am GitHub Readme Generator's creator](https://github.com/MettaSurendhar/MettaSurendhar/blob/main/banner%20image/github%20banner%202.png?raw=true)
