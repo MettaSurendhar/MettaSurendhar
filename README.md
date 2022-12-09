@@ -17,6 +17,8 @@ I'm an graduation persuing student , I'm currently in my second year. I really e
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&langs_count=8&theme=tokyonight#gh-dark-mode-only&card_width=1000px)](https://github.com/mettasurendhar/github-readme-stats)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MettaSurendhar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/metta-surendhar19032004//) 
+
 <!--
 **MettaSurendhar/MettaSurendhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
