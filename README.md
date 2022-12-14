@@ -74,4 +74,6 @@ I'm an graduation persuing student , I'm currently in my second year. I really e
 
 ----
 
+**Page Views**(Counting since 14th DEC 2022): ![Visitor Count](https://profile-counter.glitch.me/mettasurendhar/count.svg)
+
 
