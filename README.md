@@ -80,7 +80,7 @@ I'm an graduation persuing student , I'm currently in my second year. I really e
   <img width="180px" src="https://komarev.com/ghpvc/?username=mettasurendhar&label=Profile%20views&color=0e75b6&style=flat" alt="mettasurendhar" /> 
 </p>
 
-![](https://i.imgur.com/waxVImv.png)
+----
 
 <br/>
 
