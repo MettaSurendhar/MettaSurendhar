@@ -4,7 +4,14 @@
 ----
 
 <h1 align="center">Hi 👋, I'm MettaSurendhar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+
+
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
+
+</h3>
 
 
 I'm an graduation persuing student , I'm currently in my second year. I really enjoy learning languages and frameworks like JavaScript & Reactjs , as well as  doing projects in frontend development.You can checkout my linkedin : www.linkedin.com/in/metta-surendhar19032004/
