@@ -9,7 +9,7 @@
 
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=A+passionate+frontend+developer+🧑‍💻)](https://git.io/typing-svg)
 
 </h3>
 
