@@ -1,7 +1,7 @@
 
 <img src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/banner%20image/github%20banner%204.png" />
 
-----
+![](https://i.imgur.com/waxVImv.png)
 
 <h1 align="center">Hi 👋, I'm MettaSurendhar</h1>
 
@@ -16,7 +16,7 @@
 
 I'm an graduation persuing student , I'm currently in my second year. I really enjoy learning languages and frameworks like JavaScript & Reactjs , as well as  doing projects in frontend development.You can checkout my linkedin : www.linkedin.com/in/metta-surendhar19032004/
 
-----
+![](https://i.imgur.com/waxVImv.png)
 
 ## MY STATS :
 
@@ -25,8 +25,9 @@ I'm an graduation persuing student , I'm currently in my second year. I really e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&layout=compact&langs_count=8&theme=aura&bg_color=000000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mettasurendhar&theme=modern-lilac)](https://git.io/streak-stats)
 
+<br/>
 
-----
+![](https://i.imgur.com/waxVImv.png)
 
 ## Languages and Tools :
 
@@ -79,8 +80,12 @@ I'm an graduation persuing student , I'm currently in my second year. I really e
   <img width="180px" src="https://komarev.com/ghpvc/?username=mettasurendhar&label=Profile%20views&color=0e75b6&style=flat" alt="mettasurendhar" /> 
 </p>
 
-----
+![](https://i.imgur.com/waxVImv.png)
+
+<br/>
 
 **Page Views**(Counting since 14th DEC 2022): ![Visitor Count](https://profile-counter.glitch.me/mettasurendhar/count.svg)
 
+<br/>
 
+![](https://i.imgur.com/waxVImv.png)
