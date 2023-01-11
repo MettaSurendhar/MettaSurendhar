@@ -1,5 +1,5 @@
 
-<img src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/banner%20image/github%20banner%204.png" />
+<!-- <img src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/banner%20image/github%20banner%204.png" /> -->
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -20,9 +20,11 @@ I'm an graduation persuing student , I'm currently in my second year. I really e
 
 ## MY STATS :
 
-
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettasurendhar&show_icons=true&theme=aura&include_all_commits=true&line_height=40&hide_border=true&bg_color=000000&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&layout=compact&langs_count=8&theme=aura&bg_color=000000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&layout=compact&langs_count=8&theme=aura&bg_color=000000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettasurendhar&show_icons=true&theme=aura&iclude_all_commits=true&line_height=40&hide_border=true&bg_color=100000&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&layout=compact&langs_count=8&theme=aura&bg_color=100000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mettasurendhar&theme=modern-lilac)](https://git.io/streak-stats)
 
 <br/>
