@@ -13,12 +13,17 @@
 
 </h3>
 
+<p>Welcome to my page!</br></br> Hello folks! <b>I'm Metta Surendhar</b> an aspiring Front-end Web developer from  <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> Chennai, India. I am a Web development enthusiast 🧑‍💻 currently pursuing Bachelor's degree 🎓 in Information Technology at College of Engineering, Guindy.
 
-I'm an graduation persuing student , I'm currently in my second year. I really enjoy learning languages and frameworks like JavaScript & Reactjs , as well as  doing projects in frontend development.You can checkout my linkedin : www.linkedin.com/in/metta-surendhar19032004/
+I have a great passion to do programming, develop web apps, and websites. My goal is to utilize my skills for the development and growth of my organization with the help of new technologies. Looking forward to enhancing my skills, explore new challenges, and grow professionally.
+
+</p>
+
+<b> You can checkout my linkedin ! <a href="www.linkedin.com/in/metta-surendhar19032004/">Click here to view. </a> </b>
 
 ![](https://i.imgur.com/waxVImv.png)
 
-## MY STATS :
+<h2>📈 My Github Stats</h2>
 
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettasurendhar&show_icons=true&theme=aura&include_all_commits=true&line_height=40&hide_border=true&bg_color=000000&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,8 +36,27 @@ I'm an graduation persuing student , I'm currently in my second year. I really e
 
 ![](https://i.imgur.com/waxVImv.png)
 
-## Languages and Tools :
+<h2>💻 Things I Code with </h2>
 
+I love to learn new things and experiment with new technologies.
+These are some of the major languages, technologies, tools and platforms I have worked with:
+
+
+<h3>Languages & Databases</h3>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,c,python)](https://skillicons.dev)
+ 
+<h3>Framework & Technologies </h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,sass,tailwind,styledcomponents,materialui,vercel,netlify)](https://skillicons.dev)
+  
+<h3> Tools & Platform </h3>
+  
+   [![My Skills](https://skillicons.dev/icons?i=vscode,atom,vim,vite,linux,git,github,discord,figma,stackoverflow&perline=10)](https://skillicons.dev)
+
+![](https://i.imgur.com/waxVImv.png)
+
+<!-- ## Languages and Tools :
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -74,15 +98,15 @@ I'm an graduation persuing student , I'm currently in my second year. I really e
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/> 
   </a>
    
-</p>
+</p> -->
 
-----
+<!-- ----
 
 <p align="center"> 
   <img width="180px" src="https://komarev.com/ghpvc/?username=mettasurendhar&label=Profile%20views&color=0e75b6&style=flat" alt="mettasurendhar" /> 
 </p>
 
-----
+---- -->
 
 <br/>
 
