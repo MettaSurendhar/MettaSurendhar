@@ -19,7 +19,7 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 
 </p>
 
-<b> You can checkout my linkedin ! <a href="www.linkedin.com/in/metta-surendhar19032004/">Click here to view. </a> </b>
+<b> You can checkout my Portfolio Website ! <a href="https://mettasurendhar.github.io/Metta_Portfolio/">Click here to view. </a> </b>
 
 ![](https://i.imgur.com/waxVImv.png)
 
