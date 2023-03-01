@@ -72,3 +72,5 @@ These are some of the major languages, technologies, tools and platforms I have 
 <br/>
 
 ![](https://i.imgur.com/waxVImv.png)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mettasurendhar&custom_title=My%20Contribution%20Graph&title_color=ffffff&area=true&area_color=609966&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
