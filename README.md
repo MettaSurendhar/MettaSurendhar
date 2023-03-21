@@ -1,7 +1,8 @@
 
 <!-- <img src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/banner%20image/github%20banner%204.png" /> -->
 
-![](https://i.imgur.com/waxVImv.png)
+<!-- ![](https://i.imgur.com/waxVImv.png) -->
+---
 
 <h1 align="center">Hi 👋, I'm MettaSurendhar</h1>
 
@@ -24,7 +25,8 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 <b> You can download my Resume ! <a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v1.0.0/MettaResume.pdf">Click here to download. </a> </b>
 
 
-![](https://i.imgur.com/waxVImv.png)
+<!-- ![](https://i.imgur.com/waxVImv.png) -->
+---
 
 <br/>
 
@@ -39,7 +41,8 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 
 <br/>
 
-![](https://i.imgur.com/waxVImv.png)
+<!-- ![](https://i.imgur.com/waxVImv.png) -->
+---
 
 <br/>
 
@@ -63,7 +66,8 @@ These are some of the major languages, technologies, tools and platforms I have 
 
 <br/>
 
-![](https://i.imgur.com/waxVImv.png)
+<!-- ![](https://i.imgur.com/waxVImv.png) -->
+---
 
 <br/>
 
@@ -71,12 +75,15 @@ These are some of the major languages, technologies, tools and platforms I have 
 
 <br/>
 
-![](https://i.imgur.com/waxVImv.png)
+<!-- ![](https://i.imgur.com/waxVImv.png) -->
+---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mettasurendhar&custom_title=My%20Contribution%20Graph&title_color=ffffff&area=true&area_color=609966&theme=github-compact&hide_border=true)](https://github.com/MettaSurendhar)
 
-![](https://i.imgur.com/waxVImv.png)
+<!-- ![](https://i.imgur.com/waxVImv.png) -->
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mettasurendhar&theme=onedark)](https://github.com/MettaSurendhar)
 
-![](https://i.imgur.com/waxVImv.png)
+<!-- ![](https://i.imgur.com/waxVImv.png) -->
+---
