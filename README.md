@@ -22,7 +22,7 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 
 <b> You can checkout my Portfolio Website ! <a target="_blank" href="https://mettasurendhar.github.io/Metta_Portfolio/">Click here to view. </a> </b>
 
-<b> You can download my Resume ! <a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v1.0.0/MettaResume.pdf">Click here to download. </a> </b>
+<b> You can download my Resume ! <a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta.s.Resume-3.pdf">Click here to download. </a> </b>
 
 
 <!-- ![](https://i.imgur.com/waxVImv.png) -->
