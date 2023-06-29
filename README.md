@@ -35,7 +35,7 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettasurendhar&show_icons=true&theme=aura&include_all_commits=true&line_height=40&hide_border=true&bg_color=000000&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&layout=compact&langs_count=8&theme=aura&bg_color=000000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettasurendhar&show_icons=true&theme=aura&iclude_all_commits=true&line_height=40&hide_border=true&bg_color=100000&card_width=500px)](https://github.com/MettaSurendhar)
+[![MettSurendhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettasurendhar&show_icons=true&theme=aura&iclude_all_commits=true&line_height=40&hide_border=true&bg_color=100000&card_width=500px)](https://github.com/MettaSurendhar)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&layout=compact&langs_count=8&theme=aura&bg_color=100000&card_width=500px&hide_border=true&line_height=40)](https://github.com/MettaSurendhar)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mettasurendhar&theme=modern-lilac)](https://github.com/MettaSurendhar)
 
@@ -56,9 +56,13 @@ These are some of the major languages, technologies, tools and platforms I have 
  
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,c,python)](https://github.com/MettaSurendhar)
  
+ <br>
+ 
 <h3>Framework & Technologies </h3>
   
   [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,sass,tailwind,styledcomponents,materialui,vercel,netlify)](https://github.com/MettaSurendhar)
+
+  <br>
   
 <h3> Tools & Platform </h3>
   
@@ -78,7 +82,7 @@ These are some of the major languages, technologies, tools and platforms I have 
 <!-- ![](https://i.imgur.com/waxVImv.png) -->
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mettasurendhar&custom_title=My%20Contribution%20Graph&title_color=ffffff&area=true&area_color=609966&theme=github-compact&hide_border=true)](https://github.com/MettaSurendhar)
+[![MettaSurendhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mettasurendhar&custom_title=My%20Contribution%20Graph&title_color=ffffff&area=true&area_color=609966&theme=github-compact&hide_border=true)](https://github.com/MettaSurendhar)
 
 <!-- ![](https://i.imgur.com/waxVImv.png) -->
 ---
