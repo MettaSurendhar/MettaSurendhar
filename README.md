@@ -112,3 +112,11 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 <a href="https://mettasurendhar.github.io/Metta_Portfolio/"><img alt="All Tools" title="All Tools" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-1d1d1b?style=for-the-badge&logoColor=fffd7a&logo=repo"/></a>
 
 </details>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
