@@ -113,9 +113,9 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 
 </details>
 
-
-<h3>🎧 Spotify Playing</h3>
+<details open> 
+  <summary><h2>🎧 My Spotify Playing</h2></summary>
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=vcvcm9qy9avbmp2oggjpulsn6&redirect=true"> <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=vcvcm9qy9avbmp2oggjpulsn6&cover_image=true&theme=default&background_color=1d1d1b&interchange=false&bar_color=fbff14" alt="Metta Surendhar" />
-
+</details>
 
