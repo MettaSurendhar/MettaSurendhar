@@ -11,19 +11,20 @@
  <a href="https://www.linkedin.com/in/metta-surendhar/"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin.svg" /></a>
  <a href="https://instagram.com/metta_surendhar?igshid=ZDdkNTZiNTM="><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-instagram-old.svg" /></a>
  <a href="https://x.com/metta_surendhar/"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-twitterx.svg" /></a>
- <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a>
  <a href="mailto:msurendhar8815@gmail.com"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail.svg" /></a>
 </h1>
 
-<p>Welcome to my page!</br></br> Hello folks! <b>I'm Metta Surendhar</b> an aspiring Web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> Chennai, India. I am a Web development enthusiast 🧑‍💻 currently pursuing Bachelor's degree 🎓 in Information Technology at College of Engineering, Guindy.
+<p>Welcome to my page!   
+Hello folks! <b>I'm Metta Surendhar</b> an aspiring Web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> Chennai, India. I am a Web development enthusiast 🧑‍💻 currently pursuing Bachelor's degree 🎓 in Information Technology at College of Engineering, Guindy.
 
 I have a great passion to do programming, develop web apps, and websites. My goal is to utilize my skills for the development and growth of my organization with the help of new technologies. Looking forward to enhancing my skills, explore new challenges, and grow professionally.
 
 </p>
 
-<b> You can checkout my Portfolio Website ! <a target="_blank" href="https://mettasurendhar.github.io/Metta_Portfolio/">Click here to view. </a> </b>
+<p> You can checkout my Portfolio Website here 👉🏼 <span align="center"> <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img align="center" color=#000 width32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a></span> </p>
 
-<b> You can download my Resume ! <a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta.s.Resume-3.pdf">Click here to download. </a> </b>
+<p> You can download my Resume heare 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta.s.Resume-3.pdf" ><img align="center" color=#000 width=42 height=48 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-resume-64.png" /></a>
+</span></p>
 
 <details open > 
   <summary><h2>📊 Stats and Activity</h2></summary>
