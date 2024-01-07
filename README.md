@@ -122,3 +122,6 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 
 </details>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fffc9e,100:fbff00&height=60&section=footer"/>
+</p>
