@@ -51,29 +51,6 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 </details>
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
-
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,c,python,md,nodejs,dart)](https://github.com/MettaSurendhar)
-
-  <h3>🧰 Frameworks and Libraries</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,sass,tailwind,flutter,materialui,express,tensorflow,prisma)](https://github.com/MettaSurendhar)
-  
-  <h3>🗄️ Databases and Technologies </h3>
-  
- [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://github.com/MettaSurendhar)
-
-  <h3>💻 Software and Tools</h3>
-  
-   [![My Skills](https://skillicons.dev/icons?i=vscode,git,gitlab,github,discord,figma,postman,androidstudio,eclipse,stackoverflow&perline=10)](https://github.com/MettaSurendhar)
-
-   <a href="https://mettasurendhar.github.io/Metta_Portfolio/"><img alt="All Skills" title="All Skills" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20More%20About%20My%20Tools-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-</details>
-
-<details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🏆 GitHub Trophies </h3>
@@ -109,5 +86,28 @@ I have a great passion to do programming, develop web apps, and websites. My goa
   <h3> ⚡GitHub Graph Activity </h3>
   
   <a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MettaSurendhar&bg_color=1d1d1b&color=fffd7a&line=fbff00&point=ffffd6&area=true&area_color=fdfdd3&hide_border=true" /></a>
+
+</details>
+
+<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,c,python,md,nodejs,dart)](https://github.com/MettaSurendhar)
+
+  <h3>🧰 Frameworks and Libraries</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,sass,tailwind,flutter,materialui,express,tensorflow,prisma)](https://github.com/MettaSurendhar)
+  
+  <h3>🗄️ Databases and Technologies </h3>
+  
+ [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://github.com/MettaSurendhar)
+
+  <h3>💻 Software and Tools</h3>
+  
+   [![My Skills](https://skillicons.dev/icons?i=vscode,git,gitlab,github,discord,figma,postman,androidstudio,eclipse,stackoverflow&perline=10)](https://github.com/MettaSurendhar)
+
+   <a href="https://mettasurendhar.github.io/Metta_Portfolio/"><img alt="All Skills" title="All Skills" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20More%20About%20My%20Tools-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 </details>
