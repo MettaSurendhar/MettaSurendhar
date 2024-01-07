@@ -8,11 +8,11 @@
 </p>
 
 <h1 align="center"> 
- <a href="https://www.linkedin.com/in/metta-surendhar/"><img width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin-50.png" /></a>
- <a href="https://instagram.com/metta_surendhar?igshid=ZDdkNTZiNTM="><img width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-instagram-50.png" /></a>
- <a href="https://x.com/metta_surendhar/"><img width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-x-80.png" /></a>
- <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-50.png" /></a>
- <a href="mailto:msurendhar8815@gmail.com"><img width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail-50.png" /></a>
+ <a href="https://www.linkedin.com/in/metta-surendhar/"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin.svg" /></a>
+ <a href="https://instagram.com/metta_surendhar?igshid=ZDdkNTZiNTM="><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-instagram-old.svg" /></a>
+ <a href="https://x.com/metta_surendhar/"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-twitterx.svg" /></a>
+ <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a>
+ <a href="mailto:msurendhar8815@gmail.com"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail.svg" /></a>
 </h1>
 
 <p>Welcome to my page!</br></br> Hello folks! <b>I'm Metta Surendhar</b> an aspiring Web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> Chennai, India. I am a Web development enthusiast 🧑‍💻 currently pursuing Bachelor's degree 🎓 in Information Technology at College of Engineering, Guindy.
