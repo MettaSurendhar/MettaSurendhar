@@ -25,34 +25,7 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 
 <b> You can download my Resume ! <a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta.s.Resume-3.pdf">Click here to download. </a> </b>
 
-<details open> 
-  <summary><h2>📘 My Top Favorite Projects</h2></summary>
-    
-<a href="https://github.com/mettasurendhar/Met-Gauntlet"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Gauntlet&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Gauntlet" /> 
-<a href="https://github.com/mettasurendhar/Met-Face"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Face&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Face" />  
-<a href="https://github.com/mettasurendhar/qrGenerator"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=qrGenerator&show_icons=true&show_owner=true&description_lines_count=1&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="qrGenerator" />
-<a href="https://github.com/mettasurendhar/Track_My_Feet"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Track_My_Feet&show_icons=true&show_owner=true&description_lines_count=1&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Track_My_Feet" />
-<a href="https://github.com/mettasurendhar/Met-Object-Detector"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Object-Detector&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Object-Detector" />
-<a href="https://github.com/mettasurendhar/Met_talk-Client"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met_talk-Client&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met_talk-Client" />
-
-<br/>
-<a href="https://github.com/MettaSurendhar?tab=repositories&q=&type=&language=javascript&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-1d1d1b?style=for-the-badge&logoColor=fffd7a&logo=repo"/></a>
-</details>
-
-<details> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
-
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-  </p>
-</details>
-
-<details> 
+<details open > 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
   <h3>🏆 GitHub Trophies </h3>
@@ -91,6 +64,31 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 
 </details>
 
+
+<details> 
+  <summary><h2>📘 My Top Favorite Projects</h2></summary>
+    
+<a href="https://github.com/mettasurendhar/Met-Gauntlet"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Gauntlet&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Gauntlet" /> 
+<a href="https://github.com/mettasurendhar/Met-Face"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Face&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Face" />  
+<a href="https://github.com/mettasurendhar/qrGenerator"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=qrGenerator&show_icons=true&show_owner=true&description_lines_count=1&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="qrGenerator" />
+<a href="https://github.com/mettasurendhar/Track_My_Feet"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Track_My_Feet&show_icons=true&show_owner=true&description_lines_count=1&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Track_My_Feet" />
+<a href="https://github.com/mettasurendhar/Met-Object-Detector"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Object-Detector&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Object-Detector" />
+<a href="https://github.com/mettasurendhar/Met_talk-Client"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met_talk-Client&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met_talk-Client" />
+
+<br/>
+<a href="https://github.com/MettaSurendhar?tab=repositories&q=&type=&language=javascript&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-1d1d1b?style=for-the-badge&logoColor=fffd7a&logo=repo"/></a>
+</details>
+
+<details> 
+  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+    
+<a href="https://github.com/sanjith-s/farmback"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sanjith-s&repo=farmback&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="farmback" /> 
+<a href="https://github.com/sanjith-s/farmenience"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sanjith-s&repo=farmenience&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="farmenience" />
+<a href="https://github.com/Sigma-Blue/ASP-Client"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=Sigma-Blue&repo=ASP-Client&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="ASP-Client" />
+<a href="https://github.com/Sigma-Blue/ASP-Server"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=Sigma-Blue&repo=ASP-Server&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="ASP-Server" />
+
+</details>
+
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -110,6 +108,7 @@ I have a great passion to do programming, develop web apps, and websites. My goa
   
    [![My Skills](https://skillicons.dev/icons?i=vscode,git,gitlab,github,discord,figma,postman,androidstudio,eclipse,stackoverflow&perline=10)](https://github.com/MettaSurendhar)
 
-   <a href="https://mettasurendhar.github.io/Metta_Portfolio/"><img alt="All Skills" title="All Skills" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20More%20About%20My%20Tools-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+   <br/>
+<a href="https://mettasurendhar.github.io/Metta_Portfolio/"><img alt="All Tools" title="All Tools" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-1d1d1b?style=for-the-badge&logoColor=fffd7a&logo=repo"/></a>
 
 </details>
