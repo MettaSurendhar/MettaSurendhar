@@ -11,20 +11,21 @@
  <a href="https://www.linkedin.com/in/metta-surendhar/"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin.svg" /></a>
  <a href="https://instagram.com/metta_surendhar?igshid=ZDdkNTZiNTM="><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-instagram-old.svg" /></a>
  <a href="https://x.com/metta_surendhar/"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-twitterx.svg" /></a>
- <a href="mailto:msurendhar8815@gmail.com"><img color=#000 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail.svg" /></a>
+ 
 </h1>
 
 <p>Welcome to my page!   
-Hello folks! <b>I'm Metta Surendhar</b> an aspiring Web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> Chennai, India. I am a Web development enthusiast 🧑‍💻 currently pursuing Bachelor's degree 🎓 in Information Technology at College of Engineering, Guindy.
+    
+- 🔭 I'm an aspiring Front-end Web developer
+- 🎓 I'm currently pursuing **Bachelor's** in **Information Technology**
+- 👯 I’m looking to collaborate on [Alumni Student Platform](https://github.com/Sigma-Blue)
+- 🌱 I'm currently learning **DevOps**
+- ⚡ How to know me more 👉🏼 <span align="center"> <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img align="center" color=#000 width=32 height=34 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a></span>
+- 📫 How to reach me 👉🏼 <span align="center" > <a href="mailto:msurendhar8815@gmail.com"><img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail.svg" /></a> </span>
+- 📝 How to hire me 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta.s.Resume-3.pdf" ><img align="center" color=#000 width=38 height=44 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-resume-64.png" /></a>
+</span>
+  
 
-I have a great passion to do programming, develop web apps, and websites. My goal is to utilize my skills for the development and growth of my organization with the help of new technologies. Looking forward to enhancing my skills, explore new challenges, and grow professionally.
-
-</p>
-
-<p> You can checkout my Portfolio Website here 👉🏼 <span align="center"> <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img align="center" color=#000 width32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a></span> </p>
-
-<p> You can download my Resume heare 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta.s.Resume-3.pdf" ><img align="center" color=#000 width=42 height=48 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-resume-64.png" /></a>
-</span></p>
 
 <details open > 
   <summary><h2>📊 Stats and Activity</h2></summary>
