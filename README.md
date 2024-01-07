@@ -284,6 +284,6 @@ These are some of the major languages, technologies, tools and platforms I have 
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MettaSurendhar&bg_color=1d1d1b&color=fffd7a&line=fbff00&point=ffffd6&area=true&area_color=fdfdd3&hide_border=true" /></a>
 
 </details>
