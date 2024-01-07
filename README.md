@@ -23,46 +23,6 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 
 <b> You can download my Resume ! <a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta.s.Resume-3.pdf">Click here to download. </a> </b>
 
-<br/>
-
-<h2>💻 Things I Code with </h2>
-
-I love to learn new things and experiment with new technologies.
-These are some of the major languages, technologies, tools and platforms I have worked with:
-
-
-<h3>Languages & Databases</h3>
- 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,c,python)](https://github.com/MettaSurendhar)
- 
- <br>
- 
-<h3>Framework & Technologies </h3>
-  
-  [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,sass,tailwind,styledcomponents,materialui,vercel,netlify)](https://github.com/MettaSurendhar)
-
-  <br>
-  
-<h3> Tools & Platform </h3>
-  
-   [![My Skills](https://skillicons.dev/icons?i=vscode,atom,vim,vite,linux,git,github,discord,figma,stackoverflow&perline=10)](https://github.com/MettaSurendhar)
-
-<br/>
-
-<!-- ![](https://i.imgur.com/waxVImv.png) -->
----
-
-<br/>
-
-**Page Views**(Counting since 14th DEC 2022): ![Visitor Count](https://profile-counter.glitch.me/mettasurendhar/count.svg)
-
-<br/>
-
-<!-- ![](https://i.imgur.com/waxVImv.png) -->
----
-
-[![MettaSurendhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mettasurendhar&custom_title=My%20Contribution%20Graph&title_color=ffffff&area=true&area_color=609966&theme=github-compact&hide_border=true)](https://github.com/MettaSurendhar)
-
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
