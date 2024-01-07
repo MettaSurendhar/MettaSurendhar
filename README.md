@@ -21,7 +21,7 @@
 - 🌱 I'm currently learning **DevOps**
 - ⚡ How to know me more 👉🏼 <span align="center"> <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img align="center" color=#000 width=32 height=34 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a></span>
 - 📫 How to reach me 👉🏼 <span align="center" > <a href="mailto:msurendhar8815@gmail.com"><img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail.svg" /></a> </span>
-- 📝 How to hire me 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta.s.Resume-3.pdf" ><img align="center" color=#000 width=38 height=44 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-resume-64.png" /></a>
+- 📝 How to hire me 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta_resume_general_v1.pdf" ><img align="center" color=#000 width=38 height=44 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-resume-64.png" /></a>
 </span>
   
 
