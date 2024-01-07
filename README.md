@@ -32,6 +32,8 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 <a href="https://github.com/mettasurendhar/Track_My_Feet"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Track_My_Feet&show_icons=true&show_owner=true&description_lines_count=1&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Track_My_Feet" />
 <a href="https://github.com/mettasurendhar/Met-Object-Detector"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Object-Detector&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Object-Detector" />
 <a href="https://github.com/mettasurendhar/Met_talk-Client"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met_talk-Client&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met_talk-Client" />
+
+<br/>
 <a href="https://github.com/MettaSurendhar?tab=repositories&q=&type=&language=javascript&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repositories-1d1d1b?style=for-the-badge&logoColor=fffd7a&logo=repo"/></a>
 </details>
 
