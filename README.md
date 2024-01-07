@@ -2,7 +2,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F1FF1C&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Metta+Surendhar;+FullStack+Web+Developer+🧑‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=fffc9e&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Metta+Surendhar;+FullStack+Web+Developer+🧑‍💻;" />
 </p>
 
 <p align="center"> 
@@ -22,26 +22,6 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 <b> You can checkout my Portfolio Website ! <a target="_blank" href="https://mettasurendhar.github.io/Metta_Portfolio/">Click here to view. </a> </b>
 
 <b> You can download my Resume ! <a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta.s.Resume-3.pdf">Click here to download. </a> </b>
-
-
-<!-- ![](https://i.imgur.com/waxVImv.png) -->
----
-
-<br/>
-
-<h2>📈 My Github Stats</h2>
-
-<!-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettasurendhar&show_icons=true&theme=aura&include_all_commits=true&line_height=40&hide_border=true&bg_color=000000&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&layout=compact&langs_count=8&theme=aura&bg_color=000000&card_width=500px&hide_border=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats) -->
-[![MettSurendhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mettasurendhar&show_icons=true&theme=aura&iclude_all_commits=true&line_height=40&hide_border=true&bg_color=100000&card_width=500px)](https://github.com/MettaSurendhar)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mettasurendhar&layout=compact&langs_count=8&hide=html,css&theme=aura&bg_color=100000&card_width=500px&hide_border=true&line_height=40)](https://github.com/MettaSurendhar)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mettasurendhar&theme=modern-lilac)](https://github.com/MettaSurendhar)
-
-<br/>
-
-<!-- ![](https://i.imgur.com/waxVImv.png) -->
----
 
 <br/>
 
@@ -83,13 +63,6 @@ These are some of the major languages, technologies, tools and platforms I have 
 
 [![MettaSurendhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mettasurendhar&custom_title=My%20Contribution%20Graph&title_color=ffffff&area=true&area_color=609966&theme=github-compact&hide_border=true)](https://github.com/MettaSurendhar)
 
-<!-- ![](https://i.imgur.com/waxVImv.png) -->
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mettasurendhar&theme=onedark)](https://github.com/MettaSurendhar)
-
-<!-- ![](https://i.imgur.com/waxVImv.png) -->
----
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -262,11 +235,21 @@ These are some of the major languages, technologies, tools and platforms I have 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
+  <h3>🏆 GitHub Trophies </h3>
+
+   <p>
+    <a href="https://github.com/MettaSurendhar">
+      <img alt="Metta Surendhar's streak" src="https://github-profile-trophy.vercel.app/?username=mettasurendhar&theme=juicyfresh&no-frame=true"/>
+    </a>
+  </p>
+
+ <br/>
+    
   <h3>🔥 Streak Stats</h3>
 
   <p>
     <a href="https://github.com/MettaSurendhar">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=MettaSurendhar&theme=monokai-metallian&hide_border=true&fire=fbff00&ring=fffd7a&background=1d1d1b&currStreakLabel=ffffff&sideLabels=ffffff"/>
+      <img alt="Metta Surendhar's streak" src="https://streak-stats.demolab.com/?user=MettaSurendhar&theme=monokai-metallian&hide_border=true&fire=fbff00&ring=fffd7a&background=1d1d1b&currStreakLabel=ffffff&sideLabels=ffffff"/>
     </a>
   </p>
 
