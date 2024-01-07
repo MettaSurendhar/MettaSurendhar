@@ -1,4 +1,6 @@
-
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=mettasurendhar&abbreviated=true&label=Profile+Views&color=yellow" />
+</p>
 
 
 <p align="center">
