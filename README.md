@@ -50,8 +50,8 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MettaSurendhar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00" height="192px"/></a>
-  <a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MettaSurendhar&layout=compact&hide=html,css&theme=react&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00" height="192px"/></a>
+  <a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Github Stats" width=450px src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MettaSurendhar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00" height="192px"/></a>
+  <a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Top Languages" width=450px src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MettaSurendhar&layout=compact&hide=html,css&theme=react&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
