@@ -26,18 +26,18 @@ I have a great passion to do programming, develop web apps, and websites. My goa
 <details open> 
   <summary><h2>📘 My Top Favorite Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <h1 align="left" >
-    <a href="https://github.com/mettasurendhar/Met-Gauntlet"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Gauntlet&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Gauntlet" /> 
-    <a href="https://github.com/mettasurendhar/Met-Face"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Face&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Face" /> </h1>
-        
-    <a href="https://github.com/mettasurendhar/qrGenerator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=qrGenerator&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="qrGenerator" />
-    <a href="https://github.com/mettasurendhar/Track_My_Feet"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Track_My_Feet&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Track_My_Feet" />
-    <a href="https://github.com/mettasurendhar/Met-Object-Detector"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Object-Detector&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Object-Detector" />
-    <a href="https://github.com/mettasurendhar/Met_talk-Client"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met_talk-Client&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met_talk-Client" />
-</a>
-  </p>
+  <h3 align="left" >
+        <a href="https://github.com/mettasurendhar/Met-Gauntlet"> <img align="center" height=150px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Gauntlet&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Gauntlet" /> 
+        <a href="https://github.com/mettasurendhar/Met-Face"> <img align="center" height=150px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Face&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Face" />   
+  </h3>
+  <h3 align="left" >
+      <a href="https://github.com/mettasurendhar/qrGenerator"> <img align="center" height=150px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=qrGenerator&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="qrGenerator" />
+      <a href="https://github.com/mettasurendhar/Track_My_Feet"> <img align="center" height=150px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Track_My_Feet&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Track_My_Feet" />
+  </h3>
+  <h3 align="left" >
+      <a href="https://github.com/mettasurendhar/Met-Object-Detector"> <img align="center" height=150px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Object-Detector&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Object-Detector" />
+      <a href="https://github.com/mettasurendhar/Met_talk-Client"> <img align="center" height=150px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met_talk-Client&show_icons=true&show_owner=true&line_height=27&hide_border=true&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met_talk-Client" />
+  </h3>
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
