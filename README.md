@@ -239,7 +239,7 @@ These are some of the major languages, technologies, tools and platforms I have 
 
    <p>
     <a href="https://github.com/MettaSurendhar">
-      <img alt="Metta Surendhar's streak" src="https://github-profile-trophy.vercel.app/?username=mettasurendhar&theme=juicyfresh&no-frame=true"/>
+      <img alt="Metta Surendhar's streak" src="https://github-profile-trophy.vercel.app/?username=mettasurendhar&theme=gruvbox&no-frame=true&margin-w=15"/>
     </a>
   </p>
 
