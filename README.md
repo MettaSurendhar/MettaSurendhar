@@ -14,8 +14,7 @@
  
 </h1>
 
-<p>Welcome to my page!   
-    
+😇    
 - 🔭 I'm an aspiring Front-end Web developer
 - 🎓 I'm currently pursuing **Bachelor's** in **Information Technology**
 - 👯 I’m looking to collaborate on [Alumni Student Platform](https://github.com/Sigma-Blue)
@@ -68,7 +67,7 @@
 
 
 <details> 
-  <summary><h2>📘 My Top Favorite Projects</h2></summary>
+  <summary><h2>📘 My Favorite Projects</h2></summary>
     
 <a href="https://github.com/mettasurendhar/Met-Gauntlet"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Gauntlet&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Gauntlet" /> 
 <a href="https://github.com/mettasurendhar/Met-Face"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=mettasurendhar&repo=Met-Face&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="Met-Face" />  
@@ -84,7 +83,7 @@
 </details>
 
 <details> 
-  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+  <summary><h2>📕 Projects I've Contributed To</h2></summary>
     
 <a href="https://github.com/sanjith-s/farmback"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sanjith-s&repo=farmback&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="farmback" /> 
 <a href="https://github.com/sanjith-s/farmenience"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sanjith-s&repo=farmenience&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=fffd7a&text_color=ffffff&icon_color=fbff00&bg_color=1d1d1b" alt="farmenience" />
