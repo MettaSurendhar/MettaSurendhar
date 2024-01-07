@@ -1,18 +1,17 @@
 
-<!-- <img src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/banner%20image/github%20banner%204.png" /> -->
-
-<!-- ![](https://i.imgur.com/waxVImv.png) -->
----
-
-<h1 align="center">Hi 👋, I'm MettaSurendhar</h1>
 
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F1FF1C&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Metta+Surendhar;+FullStack+Web+Developer+🧑‍💻;" />
+</p>
 
-<h3 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=40EDF7&lines=A+passionate+WebDeveloper+🧑‍💻)](https://github.com/MettaSurendhar)
-
-</h3>
+<p align="center"> 
+ <a href="https://www.linkedin.com/in/metta-surendhar/"><img width=42 height=42 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin-50.png" /></a>
+ <a href="https://instagram.com/metta_surendhar?igshid=ZDdkNTZiNTM="><img width=42 height=42 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-instagram-50.png" /></a>
+ <a href="https://x.com/metta_surendhar/"><img width=42 height=42 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-x-80.png" /></a>
+ <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img width=42 height=42 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-50.png" /></a>
+ <a href="mailto:msurendhar8815@gmail.com"><img width=42 height=42 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail-50.png" /></a>
+</p>
 
 <p>Welcome to my page!</br></br> Hello folks! <b>I'm Metta Surendhar</b> an aspiring Web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> Chennai, India. I am a Web development enthusiast 🧑‍💻 currently pursuing Bachelor's degree 🎓 in Information Technology at College of Engineering, Guindy.
 
