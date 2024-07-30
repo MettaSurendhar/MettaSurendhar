@@ -14,10 +14,11 @@
 </h1>
 
 😇    
-- 🔭 I'm an aspiring **Front-end Web developer**
-- 🎓 I'm currently pursuing **Bachelor's** in **Information Technology**
-- 👯 I’m looking to collaborate on **[Social-Media-API](https://github.com/MettaSurendhar/Met-Social-Media-API)**
-- 🌱 I'm currently learning **DevOps**
+- 🔭 I'm currently working as an **Intern** at **Invisibl Cloud** as a **Platform Engineer**
+- 🎓 I'm in my graduation, pursuing **Bachelor's** in **Information Technology**
+- 👯 I’m looking to collaborate on **[Met-Interact](https://github.com/MettaSurendhar/Met-Interact)**
+- 🌱 I'm currently learning **Observibility**
+- 📚 Read my blogs @ **[Metta's Tech Bytes](https://mettasurendhar.hashnode.dev)**
 - ⚡ How to know me more 👉🏼 <span align="center"> <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img align="center" color=#000 width=32 height=34 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a></span>
 - 📫 How to reach me 👉🏼 <span align="center" > <a href="mailto:msurendhar8815@gmail.com"><img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail.svg" /></a> </span>
 - 📝 How to hire me 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta_resume_gen_v1.pdf" ><img align="center" color=#000 width=38 height=44 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-resume-64.png" /></a> </span>
