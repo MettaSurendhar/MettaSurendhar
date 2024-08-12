@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=fffc9e&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Metta+Surendhar;+FullStack+Web+Developer+🧑‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=fffc9e&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Metta+Surendhar;+Platform+Engineer+🧑‍💻;" />
 </p>
 
 <h1 align="center"> 
@@ -15,16 +15,18 @@
 
 😇    
 - 🔭 I'm currently working as an **Intern** at **Invisibl Cloud** as a **Platform Engineer**
-- 🎓 I'm in my graduation, pursuing **Bachelor's** in **Information Technology**
+- 🎓 I'm in my graduation, pursuing **Integrated Master's** in **Information Technology**
 - 👯 I’m looking to collaborate on **[Met-Interact](https://github.com/MettaSurendhar/Met-Interact)**
 - 🌱 I'm currently learning **Observibility**
 - 📚 Read my blogs @ **[Metta's Tech Bytes](https://mettasurendhar.hashnode.dev)**
-- ⚡ How to know me more 👉🏼 <span align="center"> <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img align="center" color=#000 width=32 height=34 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a></span>
-- 📫 How to reach me 👉🏼 <span align="center" > <a href="mailto:msurendhar8815@gmail.com"><img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail.svg" /></a> </span>
-- 📝 How to hire me 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta_resume_gen_v1.pdf" ><img align="center" color=#000 width=38 height=44 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-resume-64.png" /></a> </span>
-- ✌🏼️ Do follow me on <span align="center"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=metta-surendhar" target="_blank"> <img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin.svg" /> </a> </span>
-  
+- ⚡ Know me more 👉🏼 <span align="center"> <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img align="center" color=#000 width=32 height=34 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a></span>
+- 📫 Reach me through 👉🏼 <span align="center" > <a href="mailto:msurendhar8815@gmail.com"><img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail.svg" /></a> </span>
+- 📝 Hire me by 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta_resume_gen_v1.pdf" ><img align="center" color=#000 width=38 height=44 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-resume-64.png" /></a> </span>
+- ✌🏼️ Connect with me on <span align="center"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=metta-surendhar" target="_blank"> <img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin.svg" /> </a> </span>
 
+If you would like to support my community work and my open source work, consider becoming a sponsor [![github-sponsor](https://img.shields.io/static/v1?label=becoming-a-sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/MettaSurendhar)
+
+![GitHub Sponsor](https://img.shields.io/github/sponsors/MettaSurendhar?label=Sponsor&logo=GitHub) 
 
 <details open > 
   <summary><h2>📊 Stats and Activity</h2></summary>
