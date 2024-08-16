@@ -24,7 +24,9 @@
 - 📝 Hire me by 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta_resume_gen_v1.pdf" ><img align="center" color=#000 width=38 height=44 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-resume-64.png" /></a> </span>
 - ✌🏼️ Connect with me on <span align="center"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=metta-surendhar" target="_blank"> <img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin.svg" /> </a> </span>
 
-If you would like to support my community work and my open source work, consider becoming a sponsor [![github-sponsor](https://img.shields.io/static/v1?label=becoming-a-sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/MettaSurendhar)
+If you would like to support my community work and my open source work, consider becoming a sponsor 
+
+[![github-sponsor](https://img.shields.io/static/v1?label=become-a-sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/MettaSurendhar)
 
 ![GitHub Sponsor](https://img.shields.io/github/sponsors/MettaSurendhar?label=Sponsor&logo=GitHub) 
 
