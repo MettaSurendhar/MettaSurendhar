@@ -12,10 +12,10 @@
  
 </h1>
 
-- 🔭 I'm currently working as an **Intern** at **Invisibl Cloud** as a **Platform Engineer**
+- 🔭 I worked as an **Intern** at **Invisibl Cloud** as a **Platform Engineer**
 - 🎓 I'm in my graduation, pursuing **Integrated Master's** in **Information Technology**
 - 👯 I’m looking to collaborate on **[Gen-Write-Up-Agent](https://github.com/MettaSurendhar/Gen-Write-Up-Agent)**
-- 🌱 I'm currently learning **Observibility**
+- 🌱 I'm currently learning **Gen AI and RAG**
 - 📚 Read my blogs @ **[Metta's Tech Bytes](https://mettasurendhar.hashnode.dev)**
 - ⚡ Know me more 👉🏼 <span align="center"> <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img align="center" color=#000 width=32 height=34 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a></span>
 - 📫 Reach me through 👉🏼 <span align="center" > <a href="mailto:msurendhar8815@gmail.com"><img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail.svg" /></a> </span>
