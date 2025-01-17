@@ -43,9 +43,11 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Top Languages" width=400px src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MettaSurendhar&layout=compact&size_weight=0.5&count_weight=0.5&hide=html&theme=react&langs_count=5&exclude_repo=Infinsa-App&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00" height="200px"/></a>
-    <a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Github Stats" width=400px src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MettaSurendhar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00" height="200px"/></a>
-  
+<a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Top Languages" width=400px src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MettaSurendhar&layout=compact&size_weight=0.5&count_weight=0.5&hide=html&theme=react&langs_count=5&exclude_repo=Infinsa-App&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00&custom_title=Github-Top-Languages" /></a>
+    
+<a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Github Stats" width=400px src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MettaSurendhar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,rank_icon=percentile" /></a>
+    <br/>
+  [![Metta Surendhar](https://github-readme-stats.vercel.app/api/wakatime?username=MettaSurendhar&layout=compact&theme=react&hide_border=true&bg_color=1d1d1b&title_color=fffd7a&icon_color=fbff00)](https://github.com/MettaSurendhar)
   <br/>
 
 <h3>🏆 GitHub Trophies </h3>
