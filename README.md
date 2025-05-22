@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=58b3f9&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Metta+Surendhar;+Platform+Engineer+🧑‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=58b3f9&size=38&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=Hi+There!+👋;+I'm+Metta+Surendhar;+Former+Platform+Engineer+🧑‍💻;" />
 </p>
 
 
