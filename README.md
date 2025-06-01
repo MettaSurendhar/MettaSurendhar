@@ -7,9 +7,9 @@
 
 
 <h1 align="center"> 
- <a href="https://www.linkedin.com/in/metta-surendhar/"><img color=#58b3f9 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin.svg" /></a>
- <a href="https://instagram.com/metta_surendhar?igshid=ZDdkNTZiNTM="><img color=#58b3f9 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-instagram-old.svg" /></a>
- <a href="https://x.com/metta_surendhar/"><img color=#58b3f9 width=22 height=22 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-twitterx.svg" /></a>
+ <a href="https://www.linkedin.com/in/metta-surendhar/"><img color=#58b3f9 width=22 height=22 src="https://img.icons8.com/?size=100&id=IuI5Yd3J3qcC&format=png&color=228BE6" /></a>
+ <a href="https://instagram.com/metta_surendhar?igshid=ZDdkNTZiNTM="><img color=#58b3f9 width=22 height=22 src="https://img.icons8.com/?size=100&id=RhYNENh5cxlS&format=png&color=228BE6" /></a>
+ <a href="https://x.com/metta_surendhar/"><img color=#58b3f9 width=22 height=22 src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=228BE6" /></a>
  
 </h1>
 
@@ -17,13 +17,13 @@
 
 - 🔭 I worked as an **Intern** at **Invisibl Cloud** as a **Platform Engineer**
 - 🎓 I'm in my graduation, pursuing **Integrated Master's** in **Information Technology**
-- 👯 I’m looking to collaborate on **[Gen-Write-Up-Agent](https://github.com/MettaSurendhar/Gen-Write-Up-Agent)**
-- 🌱 I'm currently learning **Gen AI and RAG**
-- 📚 Read my blogs @ **[Metta's Tech Bytes](https://mettasurendhar.hashnode.dev)**
-- ⚡ Know me more 👉🏼 <span align="center"> <a href="https://mettasurendhar.github.io/Metta_Portfolio"><img align="center" color=#000 width=32 height=34 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-website-64.png" /></a></span>
-- 📫 Reach me through 👉🏼 <span align="center" > <a href="mailto:msurendhar8815@gmail.com"><img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-mail.svg" /></a> </span>
-- 📝 Hire me by 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta_resume_gen_v1.pdf" ><img align="center" color=#000 width=38 height=44 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-resume-64.png" /></a> </span>
-- ✌🏼️ Connect with me on <span align="center"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=metta-surendhar" target="_blank"> <img align="center" color=#000 width=32 height=38 src="https://github.com/MettaSurendhar/MettaSurendhar/blob/main/images/icons8-linkedin.svg" /> </a> </span>
+<!-- - 👯 I’m looking to collaborate on **[Gen-Write-Up-Agent](https://github.com/MettaSurendhar/Gen-Write-Up-Agent)** -->
+<!-- - 🌱 I'm currently learning **Gen AI and RAG** -->
+- 📚 Read my blogs 👉🏼 <span align="center"> <a href="https://dev.to/mettasurendhar"><img align="center" color=#000 width=38 src="https://img.icons8.com/?size=100&id=cjsh58euBD9i&format=png&color=000000" /></a></span>
+- ⚡ Know me more 👉🏼 <span align="center"> <a href="https://linktr.ee/MettaSurendhar"><img align="center" color=#000 width=38 src="https://img.icons8.com/?size=100&id=zrTptiWiMTtu&format=png&color=000000" /></a></span>
+- 📫 Reach me through 👉🏼 <span align="center" > <a href="mailto:msurendhar8815@gmail.com"><img align="center" color=#000 width=38 src="https://img.icons8.com/?size=100&id=xLIkjgcmFOsC&format=png&color=000000" /></a> </span>
+- 📝 Hire me by 👉🏼 <span align="center"><a target="_blank" href="https://github.com/MettaSurendhar/MettaSurendhar/releases/download/v2.0.0/Metta_resume_gen_v1.pdf" ><img align="center" color=#000 width=38 src="https://img.icons8.com/?size=100&id=FKPDvd7kv8Dw&format=png&color=000000" /></a> </span>
+- ✌🏼️ Connect with me on <span align="center"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=metta-surendhar" target="_blank"> <img align="center" color=#000 width=38 src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" /> </a> </span>
 
 <!-- If you would like to support my community work and my open source work, consider becoming a sponsor 
 
@@ -38,7 +38,7 @@
 
   <p>
     <a href="https://github.com/MettaSurendhar">
-      <img alt="Metta Surendhar's streak" src="https://streak-stats.demolab.com?user=MettaSurendhar&theme=monokai-metallian&hide_border=true&fire=58b3f9&ring=58b3f9&background=1d1d1b&currStreakLabel=ffffff&sideLabels=ffffff"/>
+      <img alt="Metta Surendhar's streak" src="https://streak-stats.demolab.com?user=MettaSurendhar&theme=prussian&hide_border=true&fire=58b3f9&ring=58b3f9&background=141424&currStreakLabel=ffffff&sideLabels=ffffff"/>
     </a>
   </p>
 
@@ -46,18 +46,18 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
-<a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Top Languages" width=400px src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MettaSurendhar&layout=compact&size_weight=0.5&count_weight=0.5&hide=html&theme=react&langs_count=5&exclude_repo=Infinsa-App&hide_border=true&bg_color=1d1d1b&title_color=58b3f9&icon_color=58b3f9&custom_title=Github-Top-Languages" /></a>
+<a href="https://github.com/MettaSurendhar"><img alt="Metta's Top Languages" width=400px src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MettaSurendhar&layout=compact&size_weight=0.5&count_weight=0.5&hide=html&theme=react&langs_count=5&exclude_repo=Infinsa-App&hide_border=true&bg_color=141424&title_color=58b3f9&icon_color=58b3f9&custom_title=Metta-Github-Languages" /></a>
     
-<a href="https://github.com/MettaSurendhar"><img alt="Metta Surendhar's Github Stats" width=400px src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MettaSurendhar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1d1d1b&title_color=58b3f9&icon_color=58b3f9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,rank_icon=percentile" /></a>
+<a href="https://github.com/MettaSurendhar"><img alt="Metta's Github Stats" width=400px src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MettaSurendhar&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=141424&title_color=58b3f9&icon_color=58b3f9&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,rank_icon=percentile&custom_title=Metta-Github-Stats" /></a>
     <br/>
-  [![Metta Surendhar](https://github-readme-stats.vercel.app/api/wakatime?username=MettaSurendhar&layout=compact&theme=react&hide_border=true&bg_color=1d1d1b&title_color=58b3f9&icon_color=58b3f9)](https://github.com/MettaSurendhar)
+  [![Metta Surendhar](https://github-readme-stats.vercel.app/api/wakatime?username=MettaSurendhar&layout=compact&theme=react&hide_border=true&bg_color=141424&title_color=58b3f9&icon_color=58b3f9)](https://github.com/MettaSurendhar)
   <br/>
 
 <h3>🏆 GitHub Trophies </h3>
 
    <p>
     <a href="https://github.com/MettaSurendhar">
-      <img alt="Metta Surendhar's streak" src="https://github-profile-trophy.vercel.app/?username=mettasurendhar&theme=gruvbox&no-frame=true&margin-w=15"/>
+      <img alt="Metta Surendhar's streak" src="https://github-profile-trophy.vercel.app/?username=mettasurendhar&theme=nord&no-frame=true&margin-w=15"/>
     </a>
   </p>
 
@@ -93,11 +93,11 @@
 <details> 
   <summary><h2>📕 Projects I've Contributed To</h2></summary>
     
-<a href="https://github.com/sanjith-s/farmback"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sanjith-s&repo=farmback&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=58b3f9&text_color=ffffff&icon_color=58b3f9&bg_color=1d1d1b" alt="farmback" /> 
-<a href="https://github.com/sanjith-s/farmenience"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sanjith-s&repo=farmenience&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=58b3f9&text_color=ffffff&icon_color=58b3f9&bg_color=1d1d1b" alt="farmenience" />
+<a href="https://github.com/sanjith-s/farmback"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sanjith-s&repo=farmback&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=58b3f9&text_color=ffffff&icon_color=58b3f9&bg_color=141424" alt="farmback" /> 
+<a href="https://github.com/sanjith-s/farmenience"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=sanjith-s&repo=farmenience&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=58b3f9&text_color=ffffff&icon_color=58b3f9&bg_color=141424" alt="farmenience" />
 
-<a href="https://github.com/Sigma-Blue/ASP-Client"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=Sigma-Blue&repo=ASP-Client&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=58b3f9&text_color=ffffff&icon_color=58b3f9&bg_color=1d1d1b" alt="ASP-Client" />
-<a href="https://github.com/Sigma-Blue/ASP-Server"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=Sigma-Blue&repo=ASP-Server&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=58b3f9&text_color=ffffff&icon_color=58b3f9&bg_color=1d1d1b" alt="ASP-Server" />
+<a href="https://github.com/Sigma-Blue/ASP-Client"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=Sigma-Blue&repo=ASP-Client&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=58b3f9&text_color=ffffff&icon_color=58b3f9&bg_color=141424" alt="ASP-Client" />
+<a href="https://github.com/Sigma-Blue/ASP-Server"> <img align="center" height=120px src="https://github-readme-stats.vercel.app/api/pin/?username=Sigma-Blue&repo=ASP-Server&show_icons=true&show_owner=true&line_height=27&hide_border=true&description_lines_count=1&title_color=58b3f9&text_color=ffffff&icon_color=58b3f9&bg_color=141424" alt="ASP-Server" />
 
 </details>
 
