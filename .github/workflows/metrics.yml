@@ -1,0 +1,84 @@
+name: Metrics
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily at midnight UTC
+  workflow_dispatch: # allow manual trigger from the Actions tab
+  push:
+    branches: ['main', 'master']
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 1. Main card — header, activity, community, repositories, metadata
+      - name: Main metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+
+      # 2. Isometric full-year commit calendar
+      - name: Isometric commit calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Kolkata
+
+      # 3. Language breakdown across owned + contributed repos
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_threshold: 0%
+          plugin_languages_limit: 8
+
+      # 4. Achievements (account age, PRs, stars, followers, etc.)
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+
+      # 5. Notable contributions to other repositories
+      - name: Notable contributions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          plugin_notable: yes
+          plugin_notable_from: 200
+          plugin_notable_types: commit, pr
+
+      # 6. Coding habits — recent activity charts
+      - name: Coding habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          config_timezone: Asia/Kolkata
