@@ -78,7 +78,7 @@ function renderSVG(calendar, year) {
 
 	return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
   <rect width="${width}" height="${height}" fill="transparent"/>
-  <text x="10" y="15" font-size="12" font-weight="600" fill="#57606a">${year} &middot; ${calendar.totalContributions} contributions</text>
+  <text x="10" y="15" font-size="12" font-weight="600" fill="#57606a">${year} · ${calendar.totalContributions} contributions</text>
   ${rects}
 </svg>`;
 }
