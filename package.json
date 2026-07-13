@@ -1,12 +1,13 @@
 name: Profile Metrics
 on:
   schedule:
-    - cron: '0 0 * * *' # daily at midnight UTC
+    - cron: "0 0 * * *"   # daily at midnight UTC
   workflow_dispatch:
   push:
-    branches: ['main', 'master']
+    branches: ["main", "master"]
 
 jobs:
+
   # ------------------------------------------------------------------
   # lowlighter/metrics: main card, isometric (rolling) calendar, languages,
   # achievements, habits, notable contributions.
@@ -20,6 +21,7 @@ jobs:
     permissions:
       contents: write
     steps:
+
       - name: Main metrics card
         uses: lowlighter/metrics@latest
         with:
@@ -35,7 +37,7 @@ jobs:
         with:
           filename: metrics.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata
@@ -47,7 +49,7 @@ jobs:
         with:
           filename: metrics.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
+          base: ""
           plugin_languages: yes
           plugin_languages_analysis_timeout: 20
           plugin_languages_details: bytes-size, percentage
@@ -65,7 +67,7 @@ jobs:
         with:
           filename: metrics.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
+          base: ""
           plugin_achievements: yes
           plugin_achievements_secrets: no
           plugin_achievements_display: compact
@@ -81,7 +83,7 @@ jobs:
         with:
           filename: metrics.notable.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
+          base: ""
           plugin_notable: yes
           plugin_notable_from: 200
           plugin_notable_types: commit, pr
@@ -97,7 +99,7 @@ jobs:
         with:
           filename: metrics.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
+          base: ""
           plugin_habits: yes
           plugin_habits_from: 100
           plugin_habits_days: 14
@@ -126,7 +128,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Install dependencies
         run: npm install
@@ -136,7 +138,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           GH_USERNAME: MettaSurendhar
-          YEARS: '2022,2023,2024,2025,2026'
+          YEARS: "2022,2023,2024,2025,2026"
 
       - name: Commit calendars
         run: |
