@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Metrics
 
-<img width="100%" src="./metrics.svg" alt="GitHub metrics summary" />
+<p align="center"><img width="880" src="./metrics.svg" alt="GitHub metrics summary" /></p>
 
 > Auto-generated daily by [lowlighter/metrics](https://github.com/lowlighter/metrics) via `.github/workflows/metrics.yml`. First render appears after the workflow's initial run.
 
@@ -42,63 +42,53 @@ Click a year to expand it — each is rendered from GitHub's own contribution da
 
 <details open>
 <summary><b>2026</b></summary>
-<img width="100%" src="./calendars/2026.svg" alt="2026 contribution calendar" />
+<p align="center"><img width="880" src="./calendars/2026.svg" alt="2026 contribution calendar" /></p>
 </details>
 
 <details>
 <summary><b>2025</b></summary>
-<img width="100%" src="./calendars/2025.svg" alt="2025 contribution calendar" />
+<p align="center"><img width="880" src="./calendars/2025.svg" alt="2025 contribution calendar" /></p>
 </details>
 
 <details>
 <summary><b>2024</b></summary>
-<img width="100%" src="./calendars/2024.svg" alt="2024 contribution calendar" />
+<p align="center"><img width="880" src="./calendars/2024.svg" alt="2024 contribution calendar" /></p>
 </details>
 
 <details>
 <summary><b>2023</b></summary>
-<img width="100%" src="./calendars/2023.svg" alt="2023 contribution calendar" />
+<p align="center"><img width="880" src="./calendars/2023.svg" alt="2023 contribution calendar" /></p>
 </details>
 
 <details>
 <summary><b>2022</b></summary>
-<img width="100%" src="./calendars/2022.svg" alt="2022 contribution calendar" />
+<p align="center"><img width="880" src="./calendars/2022.svg" alt="2022 contribution calendar" /></p>
 </details>
 
 <details>
 <summary>Isometric view — rolling last 12 months</summary>
-<img width="100%" src="./metrics.isocalendar.svg" alt="Isometric commit calendar" />
+<p align="center"><img width="880" src="./metrics.isocalendar.svg" alt="Isometric commit calendar" /></p>
 </details>
 
 <br/>
 
-## 🈷️ Languages, Achievements &amp; Habits
+## 🈷️ Languages &amp; Notable Contributions
 
-<table>
-<tr>
-<td width="50%" valign="top"><img width="100%" src="./metrics.languages.svg" alt="Language breakdown" /></td>
-<td width="50%" valign="top"><img width="100%" src="./metrics.achievements.svg" alt="Achievements" /></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><img width="100%" src="./metrics.habits.svg" alt="Coding habits" /></td>
-<td width="50%" valign="top"><img width="100%" src="./metrics.notable.svg" alt="Notable contributions" /></td>
-</tr>
-</table>
+<p align="center"><img width="880" src="./metrics.languages.svg" alt="Language breakdown" /></p>
 
-<sub>Achievements and habits rely on GitHub-side scraping that occasionally breaks upstream (tracked in <a href="https://github.com/lowlighter/metrics/issues/1479">lowlighter/metrics#1479</a>) — if one shows blank after a run, re-running the workflow usually fixes it.</sub>
+<p align="center"><img width="880" src="./metrics.notable.svg" alt="Notable contributions" /></p>
+
+<sub>Achievements and coding-habits cards were left out on purpose — both plugins depend on scraping GitHub pages that changed upstream, and that scraping is unpatched in the released action (see <a href="https://github.com/lowlighter/metrics/issues/1479">lowlighter/metrics#1479</a>). No token permission fixes this, it's an upstream limitation.</sub>
 
 <br/>
 
-## 🔥 Streak &amp; Legacy Stats
+## 🔥 Streak Stats
 
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=MettaSurendhar&theme=default&hide_border=true&background=FFFFFF00&fire=58B3F9&ring=58B3F9&currStreakLabel=58B3F9" alt="GitHub streak stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MettaSurendhar&layout=compact&hide=html&langs_count=8&hide_border=true&bg_color=FFFFFF00&title_color=58B3F9&text_color=444" alt="Top languages" />
-</p>
+<p align="center"><img width="600" src="https://streak-stats.demolab.com?user=MettaSurendhar&theme=default&hide_border=true&background=FFFFFF00&fire=58B3F9&ring=58B3F9&currStreakLabel=58B3F9" alt="GitHub streak stats" /></p>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=MettaSurendhar&theme=flat&no-frame=true&margin-w=12&row=1" alt="GitHub trophies" />
-</p>
+<p align="center"><img width="880" src="https://github-profile-trophy.vercel.app/?username=MettaSurendhar&theme=flat&no-frame=true&margin-w=12&row=1" alt="GitHub trophies" /></p>
+
+<sub>Trophies use a free shared instance (<code>github-profile-trophy.vercel.app</code>) that's frequently overloaded and unrelated to your token — if it shows broken here, it's not your setup. Self-hosting a copy via its <a href="https://github.com/ryo-ma/github-profile-trophy#deploy-your-own-instance-recommended">one-click Vercel deploy</a> is the only permanent fix.</sub>
 
 <br/>
 
