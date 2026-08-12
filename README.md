@@ -24,7 +24,7 @@
 - 🎓 Finishing an **Integrated M.Sc. IT** at CEG, Anna University (2021 – 2026), CGPA 8.28
 - 🧠 Building with **RAG, LLM agents, FastAPI, and React** — recent work spans Haystack, OpenSearch, Claude, and Gemini
 - ✍️ Writes regularly on [Medium](https://medium.com/@mettasurendhar) about observability, GenAI, and the realities of hackathons and job-hunting
-- 📄 [Résumé](https://drive.google.com/file/d/1xWSyFlbvE_NHIMo3SOlLsad-CuEEFv2T/view) · 📫 [msurendhar8815@gmail.com](mailto:msurendhar8815@gmail.com)
+- 📄 [Résumé](https://drive.google.com/file/d/1Db_6eMUGVjQ7X9TSn2t2okwVZpEkJ3iu/view) · 📫 [msurendhar8815@gmail.com](mailto:msurendhar8815@gmail.com)
 
 <br/>
 
